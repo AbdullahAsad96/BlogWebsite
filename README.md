@@ -1,7 +1,7 @@
 # BlogWebsite
 ### Clone this GitHub repository to your local machine:
 
-git clone https://github.com/AbdullahAsad96/BlogWebsite
+git clone https://github.com/AbdullahAsad96/BlogWebsite.git
 
 
 #### Change into the project directory:
